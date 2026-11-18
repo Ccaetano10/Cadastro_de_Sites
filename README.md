@@ -1,2 +1,51 @@
-# Cadastro_de_Sites
-Sistema web para cadastro e gerenciamento de sites, desenvolvido como projeto acadêmico. Possui acesso para usuários, que podem visualizar os sites cadastrados, e administradores, responsáveis por cadastrar, visualizar, editar e excluir registros (CRUD).
+# Sistema de Cadastro de Sites
+
+\<p align="center">   Um sistema web desenvolvido para cadastrar, organizar e visualizar sites em um único ambiente. \</p>
+
+---
+
+## Sobre o Projeto
+
+Este projeto foi desenvolvido como atividade acadêmica da faculdade, com o objetivo de colocar em prática os conhecimentos adquiridos durante o curso de **[Nome do Curso]**, na **[Nome da Faculdade]**.
+
+A aplicação funciona como um catálogo de sites, permitindo que os usuários visualizem os registros disponíveis, enquanto o administrador possui acesso ao gerenciamento completo das informações.
+
+## Funcionalidades
+
+O sistema conta com dois níveis de acesso:
+
+### Usuário
+
+- Visualizar os sites cadastrados.
+- Consultar informações como nome, URL, categoria e descrição.
+- Acessar os sites por meio dos links disponibilizados.
+
+### Administrador
+
+O administrador possui acesso às operações CRUD do sistema:
+
+|  Operação  | Funcionalidade                   |
+| :--------: | -------------------------------- |
+| **Create** | Cadastrar novos sites.           |
+|  **Read**  | Visualizar os sites cadastrados. |
+| **Update** | Alterar informações dos sites.   |
+| **Delete** | Excluir sites cadastrados.       |
+
+## Interface do Sistema
+
+O sistema apresenta os sites cadastrados em formato de cards, exibindo suas imagens e principais informações.
+
+\<!-- Adicione aqui imagens ou GIFs do projeto -->
+
+## Tecnologias Utilizadas
+
+- [Adicione as tecnologias utilizadas no projeto]
+
+## Contexto Acadêmico
+
+Projeto desenvolvido como atividade acadêmica, com o intuito de aplicar conceitos de desenvolvimento web, gerenciamento de dados e operações CRUD.
+
+---
+
+\<p align="center">   Desenvolvido por \<strong>Caiã César Caetano de Moraes\</strong> 🚀 \</p>
+
