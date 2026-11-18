@@ -1,0 +1,81 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(190, 191, 192);
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+.login-container{
+    width: 350px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgb(77, 103, 205);
+    border: 2px solid black;
+}
+.row{
+    padding: 5px;
+    display: flex;
+    gap: 5px;
+}
+
+.col{
+    font-weight: bold;
+    width: 100%;
+}
+
+input[type="text"],
+input[type="password"]{
+    width: 100%;
+    border: 1px solid #444;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    padding: 8px;
+}
+
+input[type="reset"],
+input[type="submit"],
+input[type="button"]{
+    border: 1px solid #444;
+    border-radius: 5px;
+    background-color: green;
+    font-size: larger;
+    color:white;
+    width: 100%;
+    padding: 5px;
+}
+
+input[type="reset"],
+input[type="button"]{
+    background-color: red;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    transition: background-color 2s;
+}
+
+a:hover{
+    color: rgb(137, 181, 226);
+}
+
+footer{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    list-style: none;
+}
