@@ -1,12 +1,14 @@
 # Sistema de Cadastro de Sites
 
-\<p align="center">   Um sistema web desenvolvido para cadastrar, organizar e visualizar sites em um único ambiente. \</p>
+<p align="center">   
+  Um sistema web desenvolvido para cadastrar, organizar e visualizar sites em um único ambiente. 
+</p>
 
 ---
 
 ## Sobre o Projeto
 
-Este projeto foi desenvolvido como atividade acadêmica da faculdade, com o objetivo de colocar em prática os conhecimentos adquiridos durante o curso de **[Nome do Curso]**, na **[Nome da Faculdade]**.
+Este projeto foi desenvolvido como atividade acadêmica da faculdade, com o objetivo de colocar em prática os conhecimentos adquiridos durante o curso de **Análise e Desenvolvimento de Sistemas**, na **Fatec Araçatuba**.
 
 A aplicação funciona como um catálogo de sites, permitindo que os usuários visualizem os registros disponíveis, enquanto o administrador possui acesso ao gerenciamento completo das informações.
 
@@ -47,5 +49,7 @@ Projeto desenvolvido como atividade acadêmica, com o intuito de aplicar conceit
 
 ---
 
-\<p align="center">   Desenvolvido por \<strong>Caiã César Caetano de Moraes\</strong> 🚀 \</p>
+<p align="center">   
+  Desenvolvido por <strong>Caiã César Caetano de Moraes</strong>
+</p>
 
