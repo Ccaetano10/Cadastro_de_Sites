@@ -37,7 +37,8 @@ O administrador possui acesso às operações CRUD do sistema:
 
 O sistema apresenta os sites cadastrados em formato de cards, exibindo suas imagens e principais informações.
 
-\<!-- Adicione aqui imagens ou GIFs do projeto -->
+<img width="1907" height="906" alt="Captura de tela 2026-11-18 082419" src="https://github.com/user-attachments/assets/b9e5c744-83d9-41d9-9f8c-873829b24218" />
+
 
 ## Tecnologias Utilizadas
 
