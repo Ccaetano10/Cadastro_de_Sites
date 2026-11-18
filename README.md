@@ -41,7 +41,11 @@ O sistema apresenta os sites cadastrados em formato de cards, exibindo suas imag
 
 ## Tecnologias Utilizadas
 
-- [Adicione as tecnologias utilizadas no projeto]
+- **HTML5** – Estruturação das páginas.
+- **CSS3** – Estilização e layout da aplicação.
+- **JavaScript** – Interatividade e funcionalidades.
+- **PHP** – Desenvolvimento da lógica e processamento no servidor.
+- **SQL** – Manipulação e gerenciamento do banco de dados.
 
 ## Contexto Acadêmico
 
